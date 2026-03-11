@@ -1,4 +1,6 @@
-# The "GPU Power Limit" Script (NVIDIA Lifespan)During long AI training sessions, your RTX 40-series card can run very hot. You can actually reduce the power limit (e.g., from 100W to 80W). You lose $\sim5\%$ performance but drop temperatures by $10^\circ\text{C}-15^\circ\text{C}$."
+# The "GPU Power Limit" Script 
+# (NVIDIA Lifespan)During long AI training sessions, your RTX 40-series card can run very hot. You can actually reduce the power limit (e.g., from 100W to 80W). 
+# You lose $\sim5\%$ performance but drop temperatures by $10^\circ\text{C}-15^\circ\text{C}$."
 
 
 
